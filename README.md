@@ -7,6 +7,21 @@ There is a GUI component and a backend component
 
 [CourseSchedulerPart2.pdf](https://github.com/user-attachments/files/19239583/CourseSchedulerPart2.pdf)
 
+How to use code:
+
+step 1: Install java
+
+Step 2 download all the code and database
+
+step 3: connect to database 
+
+step 4: run the MainFrame.java code
+
+
+
+
+
+
 
 
 It is your responsibility if you copy or work on this project dishonestly. Any violation of academic integrity will result in consequences as per the Penn State policy, and I will not be involved in any repercussions.
